@@ -13,24 +13,23 @@ modify the db details in code base in the following path : `Todolist-React-Node-
 
 ## Backend - NodeJs, Mysql, JWT
 
-go to Todolist-React-Node-mysql-master folder 
+go to `Todolist-React-Node-mysql-master` folder open command prompt
 
-Install all package  `npm i`   
+Install all package by running `npm i`   
 
 Run `npm run dev`
 
 
 ## Frontend - ReactJs
 
-Install all package   
-`cd frontend`     
+go to `Todolist-React-Node-mysql-master/frontend` folder  open command prompt
 
-`npm i`
+Run `npm i`
 
 Run `npm start`
 
-Open http://localhost:3000  to see the app
+Open http://localhost:3000  to see the app or http://publicip:3000
 
-Register a new user and login with that user in application. verify tyhe user in db
+Register a new user and login with that user in application. verify the user in db
 
 

@@ -6,7 +6,7 @@
 
 ## Create a RDS Mysql databse 5.7.** 
 
-connect RDS database in mysql client app -> import the Database, Database dump available in in database_schema directory
+connect RDS database in mysql client app -> import the Database, Database dump available in database_schema directory
 
 modify the db details in code base in the following path : `Todolist-React-Node-mysql-master\database\db.js`
 

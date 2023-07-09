@@ -32,8 +32,5 @@ Open http://localhost:3000  to see the app or http://publicip:3000
 
 Register a new user and login with that user in application. verify the user in db
 
-![Alt text]([image link](https://raw.githubusercontent.com/mohan-balakrishnan/Todolist-React-Node-mysql/main/home.JPG)https://raw.githubusercontent.com/mohan-balakrishnan/Todolist-React-Node-mysql/main/home.JPG)
-
-
 
 

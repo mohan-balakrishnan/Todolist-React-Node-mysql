@@ -10,9 +10,7 @@ Create a windows instance - Install Node.js, allow required ports (80,8080,3000,
 connect RDS database in mysql client app -> import the Database, Database dump available in database_schema directory
 
 ## Doenload codebase
-
-Download this repo / [Click here to download code](https://openai.com](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main){:target="_blank"}
-
+Download this repo / [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main){:target="_blank"}
 
 modify the db details in code base in the following path : `Todolist-React-Node-mysql-master\database\db.js`
 

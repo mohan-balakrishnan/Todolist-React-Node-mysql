@@ -38,4 +38,6 @@ Register a new user and login with that user in application. verify the user in 
 
 ![Register](https://raw.githubusercontent.com/mohan-balakrishnan/Todolist-React-Node-mysql/main/register.JPG)
 
+## Section 1
 
+## Section 2

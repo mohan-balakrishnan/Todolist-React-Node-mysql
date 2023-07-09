@@ -1,5 +1,6 @@
 # Todolist-React-Node-mysql
 
+
 ## Simple Todo List with technology stack NodeJs, ReactJs, Mysql, JWT, Javascript
 
 Create a windows instance - Install Node.js, allow required ports (80,8080,3000,3306)
@@ -32,12 +33,8 @@ Open http://localhost:3000  to see the app or http://publicip:3000
 
 Register a new user and login with that user in application. verify the user in db
 
-##Screenshots
+## Screenshots
 
 ![Home Page](https://raw.githubusercontent.com/mohan-balakrishnan/Todolist-React-Node-mysql/main/home.JPG)
 
 ![Register](https://raw.githubusercontent.com/mohan-balakrishnan/Todolist-React-Node-mysql/main/register.JPG)
-
-## Section 1
-
-## Section 2

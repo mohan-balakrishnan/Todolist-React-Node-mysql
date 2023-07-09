@@ -11,7 +11,8 @@ connect RDS database in mysql client app -> import the Database, Database dump a
 
 ## Doenload codebase
 
-Download this repo / [Click here to download code]([https://openai.com](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main))
+Download this repo / [Click here to download code](https://openai.com](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main){:target="_blank"}
+
 
 modify the db details in code base in the following path : `Todolist-React-Node-mysql-master\database\db.js`
 

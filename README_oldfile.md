@@ -3,17 +3,18 @@
 
 ## Simple Todo List with technology stack NodeJs, ReactJs, Mysql, JWT, Javascript
 
-1. Create a windows instance - Install Node.js, allow required ports (80,8080,3000,3306)
+Create a windows instance - Install Node.js, allow required ports (80,8080,3000,3306)
 
-2. Create a RDS Mysql databse 5.7.** 
+## Create a RDS Mysql databse 5.7.** 
 
-3. connect RDS database in mysql client app -> import the Database, Database dump available in database_schema directory
+connect RDS database in mysql client app -> import the Database, Database dump available in database_schema directory
 
-4. Download codebase fro this repo (or)  [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main)
+## Download codebase
+Download this repo / [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main)
 
-5. Unzip the code
+Unzip the code
 
-6. modify the db details in code base in the following path : `Todolist-React-Node-mysql\database\db.js`
+modify the db details in code base in the following path : `Todolist-React-Node-mysql\database\db.js`
 
 
 ## Backend - NodeJs, Mysql, JWT

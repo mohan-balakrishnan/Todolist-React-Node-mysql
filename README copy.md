@@ -9,8 +9,7 @@
 
 3. connect RDS database in mysql client app -> import the Database, Database dump available in database_schema directory
 
-4. Download codebase
-Download this repo / [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main)
+4. Download codebase fro this repo (or)  [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main)
 
 5. Unzip the code
 

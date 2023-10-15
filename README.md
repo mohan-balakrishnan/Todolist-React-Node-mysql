@@ -21,7 +21,7 @@
       host: 'YourEndpoint',
 
 
-## Backend - NodeJs, Mysql, JWT
+## Backend(Todolist-React-Node-mysql) - NodeJs, Mysql, JWT
 
 go to `Todolist-React-Node-mysql` folder open command prompt
 

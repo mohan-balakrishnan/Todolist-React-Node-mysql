@@ -13,7 +13,11 @@
 
 5. Unzip the code
 
-6. modify the db details in code base in the following path : `Todolist-React-Node-mysql\database\db.js`
+6. modify the db details(endpoint, username, password, database name) in code base in the following path : `Todolist-React-Node-mysql\database\db.js`  refer line no. 5 and 8.
+   
+  eg: 
+   const sequelize = new Sequelize('Db Name', 'USername', 'Password', {
+   host: 'YourEndpoint',
 
 
 ## Backend - NodeJs, Mysql, JWT

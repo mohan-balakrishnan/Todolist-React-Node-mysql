@@ -30,7 +30,7 @@ Install all package by running `npm i`
 Run `npm run dev`
 
 
-## Frontend - ReactJs
+## Frontend(Todolist-React-Node-mysql/frontend) - ReactJs
 
 go to `Todolist-React-Node-mysql/frontend` folder  open command prompt
 

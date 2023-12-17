@@ -1,7 +1,7 @@
 # Todolist-React-Node-mysql
 
 
-## Simple Todo List with technology stack NodeJs, ReactJs, Mysql, JWT, Javascript
+## Simple Todo List with technology stack **NodeJs, ReactJs, Mysql, JWT, Javascript**
 
 1. Create a **Windows instance** - Install `Node.js`, allow required ports (`80,8080,3000,3306`)
 

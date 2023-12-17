@@ -15,7 +15,7 @@
 
 6. Unzip the code
 
-7. modify the db details(endpoint, username, password, database name) in code base in the following path : `Todolist-React-Node-mysql\database\db.js`  refer line no. 5 and 8.
+7. modify the db details (endpoint, username, password, database name) in code base in the following path : `Todolist-React-Node-mysql\database\db.js`  refer line no. 5 and 8.
    
   eg: 
       

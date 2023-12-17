@@ -23,24 +23,24 @@
 
 ## Backend(Todolist-React-Node-mysql) - NodeJs, Mysql, JWT
 
-go to `Todolist-React-Node-mysql` folder open command prompt
+7. go to `Todolist-React-Node-mysql` folder open command prompt
 
-Install all package by running `npm i`   
+   Install all package by running `npm i`   
 
-Run `npm run dev`
+   Run `npm run dev`
 
 
 ## Frontend(Todolist-React-Node-mysql/frontend) - ReactJs
 
-go to `Todolist-React-Node-mysql/frontend` folder  open command prompt
+8. Go to `Todolist-React-Node-mysql/frontend` folder  open command prompt
 
-Run `npm i`
+   Run `npm i`
 
-Run `npm start`
+   Run `npm start`
 
-Open http://localhost:3000  to see the app or http://publicip:3000
+   Open http://localhost:3000  to see the app or http://publicip:3000
 
-Register a new user and login with that user in application. verify the user in db
+   Register a new user and login with that user in application. verify the user in db
 
 ## Screenshots
 

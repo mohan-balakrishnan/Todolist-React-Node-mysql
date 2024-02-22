@@ -7,8 +7,8 @@
    - Install `Node.js`.
 
 2. **Create a RDS Mysql database 5.7.***.
-    - Ensure that the security group associated with the database allows access to port number 3306 from anywhere.
-    - Confirm that the database is publicly accessible. For example, verify this by attempting to connect to the database using a MySQL client from an external location.nt)
+    - Ensure that the security group associated with the database allows access to port number `3306` from `anywhere`.
+    - Confirm that the database is `publicly accessible`. For example, verify this by attempting to connect to the database using a MySQL client from an Your Local PC.)
 
 3. **Connect RDS database in mysql client app**:
    - **Import** the Database. Database dump available in `database_schema` directory.

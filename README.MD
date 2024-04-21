@@ -6,7 +6,7 @@
    - Connect Windows Instance via `Remote Desktop Connection(RDP)`.
    - Install `Node.js`.
 
-2. **Create a RDS Mysql database 5.7.***.
+2. **Create a RDS Mysql database 8.*** Free tier only.
     - Ensure that the security group associated with the database allows access to port number `3306` from `anywhere`.
     - Confirm that the database is `publicly accessible`. For example, verify this by attempting to connect to the database using a MySQL client from an Your Local PC.)
 
@@ -18,12 +18,12 @@
 
 6. Unzip the code.
 
-7. **Modify the db details** (endpoint, username, password, database name) in the codebase:
+7. **Modify the db details** (Endpoint, username, password, database name) in the codebase:
    - Path: `Todolist-React-Node-mysql\database\db.js`.
    - Refer to line no. 5 and 8.
    - Example:
      ```javascript
-     const sequelize = new Sequelize('Db Name', 'Username', 'Password',
+     const sequelize = new Sequelize('Your-DB-Name', 'UserName', 'Password',
      host: 'YourEndpoint',
      ```
 

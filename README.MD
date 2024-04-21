@@ -6,7 +6,7 @@
    - Connect Windows Instance via `Remote Desktop Connection(RDP)`.
    - Install `Node.js`.
 
-2. **Create a RDS Mysql database version 8.*.*. Free Tier only.
+2. **Create a RDS Mysql database version 8.***  - Free Tier only.
     - Ensure that the security group associated with the database allows access to port number `3306` from `anywhere`.
     - Confirm that the database is `publicly accessible`. For example, verify this by attempting to connect to the database using a MySQL client from an Your Local PC.)
 

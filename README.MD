@@ -2,7 +2,7 @@
 
 ## Simple Todo List with Tech Stack **NodeJs, ReactJs, Mysql, JWT, Javascript**
 
-1. **Create a Windows instance**: Allow required ports in security group (`80, 8080, 3000, 3306`).
+1. **Create a Windows instance**: Allow required ports in security group (`3000, 3306`).
    - Connect Windows Instance via `Remote Desktop Connection(RDP)`.
    - Install `Node.js`.
 

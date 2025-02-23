@@ -14,7 +14,7 @@
    - **Import** the Database. Database dump available in `database_schema` directory.
    - Database schema path: `Todolist-React-Node-mysql/database_schema/dump.sql`.
 
-5. **Download codebase to server from this repo (or)**: [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main).
+5. **Download codebase to Windows server(VM) from this repo (or)**: [Click here to download code](https://codeload.github.com/mohan-balakrishnan/Todolist-React-Node-mysql/zip/refs/heads/main).
 
 6. Unzip the code.
 

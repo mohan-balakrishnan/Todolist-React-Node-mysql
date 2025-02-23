@@ -38,8 +38,7 @@
 9. Go to `Todolist-React-Node-mysql/frontend` folder, open command prompt.
    - Run `npm i`.
    - Run `npm start`.
-   - Open [http://localhost:3000](http://localhost:3000) to see the app or http://publicip:3000.
-   - Map ip to [Free DNS](https://www.noip.com/) and confirm it. 
+   - Open [http://localhost:3000](http://localhost:3000) to see the app or http://publicip:3000. 
 
 10. Register a new user and login with that user in the application. Verify the user in the DB table.
 
